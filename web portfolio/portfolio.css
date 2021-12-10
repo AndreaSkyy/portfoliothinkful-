@@ -1,0 +1,34 @@
+main {
+    text-align: center;
+}
+
+body {
+    background-color: #FCDBB3;
+}
+
+h1 {
+    color:#9c6644;
+}
+
+h2{
+    font-size: 17px;
+}
+
+h3 {
+    color:#9c6644;
+    font-size: 20px;
+}
+
+h4 {
+    color: #9c6644;
+    font-size: 19px;
+}
+
+p{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+
+footer {
+    text-align: center;
+}
